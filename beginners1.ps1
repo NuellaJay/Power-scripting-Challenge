@@ -1,3 +1,4 @@
+# For every even number from 0 to 100, the even numbers get added.
 $t= 0
 for ($i =2; $i -le 100; $i +=2) {
     $t +=$i
